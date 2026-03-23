@@ -14,7 +14,7 @@
 - [ARCade ARChive (ArcArc)](https://arcarc.xmission.com/) PDFs for just about everything
 - [SARK - Search Tool for ArcArc](https://sark.atomized.org/)
 - [Tubular - CRT Tube Information](https://tubular.atomized.org/)
-- [Arcade Repair DB] (https://www.arcaderepairdb.com/) Memory Maps, Pinouts, Rom Information etc. 
+- [Arcade Repair DB](https://www.arcaderepairdb.com/) Memory Maps, Pinouts, Rom Information etc. 
 
 ## Tools
 - [Romident Coinop Florida](https://romident.coinopflorida.com/)
