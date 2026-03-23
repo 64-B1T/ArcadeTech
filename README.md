@@ -39,18 +39,27 @@
 - [XL Arcade](https://xlarcade.com/)
 
 ## Documentation
+### Manuals and More
 - [ARCade ARChive (ArcArc)](https://arcarc.xmission.com/) PDFs for just about everything
 - [SARK - Search Tool for ArcArc](https://sark.atomized.org/)
+- [TTL Datasheets](https://www.arcade-museum.com/tech-center/ttl-and-cmos)
+
+### Crt Information
 - [Tubular - CRT Tube Information](https://tubular.atomized.org/)
 - [Arcade Repair DB](https://www.arcaderepairdb.com/) Memory Maps, Pinouts, Rom Information etc.
-- [Arcade Artwork](https://www.arcadeartwork.org/) References for Arcade Art Files
+- [CRT Base Designations](https://wiki.arcadeotaku.com/w/CRT_designation_systems#CRT_base_designations) Arcade Otaku Wiki CRT Designations.
+
+### Artwork Files
 - [Arcade Vector Graphics](https://arcarc.xmission.com/Web%20Archives/vectorlib.free.fr%20(August-15-2018)/) Archived Artwork Site
+- [Arcade Artwork](https://www.arcadeartwork.org/) References for Arcade Art Files
+
+### Cabinet Models and Plans
 - [Classic Arcade Cabinets](https://www.classicarcadecabinets.com/) CAD For Cutting Your own Cabinets
 - [Arcade Cabinet 3D Models](https://www.arcade-museum.com/tech-center/3DModels) Useful for Drafing Layouts
+  
+### Other
 - [IAML PCB Identifier](https://www.arcade-museum.com/tech-center/pcb-identifier)
-- [TTL Datasheets](https://www.arcade-museum.com/tech-center/ttl-and-cmos)
 - [Historical Source](https://github.com/historicalsource) Source Code for old Arcade games
-- [CRT Base Designations](https://wiki.arcadeotaku.com/w/CRT_designation_systems#CRT_base_designations) Arcate Otaku Wiki CRT Designations.
 - [IONPool Web Capture](https://web.archive.org/web/20190926012527/https://ionpool.net/) Useful Site with A Variety of Extra Links
 - [Monitor Chassis Pictures](https://www.arcadepartsandrepair.com/tech-help/monitor-chassis-pictures/) Useful for Identifying Monitors.
 - [Multigame.Com](https://arcarc.xmission.com/Web%20Archives/www.Multigame.com%20(Dec-31-2020)/index.htm) Clay Cowgill's Site
