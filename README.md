@@ -99,7 +99,7 @@
   - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/crazy/cchack/)
 - Dig Dug
   - [JROK](https://www.jrok.com/files/dd_freeplay.html) Start Button Lights InOp
-  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/digdug.htm) PAID
+  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/digdug.htm) $50 Purchase Required
 - Discs of TRON
   - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/dotron/)
 - Donkey Kong
@@ -110,14 +110,20 @@
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Double Dragon
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Frogger
+  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/frogger.htm) $40 Purchase Required
 - Head on N
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Head on 2
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Heli Fire
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Kangaroo
+  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/kangaroo.htm) $45 Purchase Required
 - Mario Bros
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Phoenix
+  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/phoenix.htm) $40 Purchase Required
 - Popeye
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Pulsar
