@@ -12,6 +12,7 @@
 - [Mikes Arcade](https://www.mikesarcade.com/cgi-bin/store.pl) - Arcade Parts Specializing in Nintendo
 - [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
 - [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Wiring Harnesses
+- [Paradise Arcade Shop](https://paradisearcadeshop.com/) - Reproductions and Other
   
 ### Artwork
 - [Arcade Art Shop](https://www.arcadeartshop.com/)
