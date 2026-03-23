@@ -28,6 +28,7 @@
 - [Groovy Game Gear](https://groovygamegear.com/webstore/) - Arcade Parts and Mame Parts
 - [Arcade Adventures](https://www.arcadeadventures.com/) - Arcade Games and Parts
 - [Marco Specialties](https://www.marcospecialties.com/control/main) - Primarily Pinball Parts
+- [Arcade Components](https://www.arcadecomponents.com/index.html) - Mostly Old Chips
   
 ### Artwork
 - [Arcade Art Shop](https://www.arcadeartshop.com/)
