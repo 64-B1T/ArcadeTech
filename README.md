@@ -13,7 +13,7 @@
 ## Documentation
 - [ARCade ARChive (ArcArc)](https://arcarc.xmission.com/) PDFs for just about everything
 - [SARK - Search Tool for ArcArc](https://sark.atomized.org/)
-- [Tubular - CRT Tube Information[(https://tubular.atomized.org/)
+- [Tubular - CRT Tube Information](https://tubular.atomized.org/)
 
 ## Tools
 - [Romident Coinop Florida](https://romident.coinopflorida.com/)
@@ -24,3 +24,20 @@
 - [Mikes Arcade Repair Logs](https://www.mikesarcade.com/arcade/repairs/)
 - [Lakeside Arcade Repair Logs](https://lakeside-arcade.com/portfolio/pcb-repair-logs/)
 - [SnesNesCube64 Repair Logs](https://www.videogamesage.com/blogs/blog/33-snesnescube64s-repair-logs/)
+
+## Freeplay Hacks
+- [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+  - Arm Wrestling
+  - Donkey Kong
+  - Donkey Kong Jr
+  - Donkey Kong 3
+  - Head on N
+  - Head on 2
+  - Heli Fire
+  - Mario Bros
+  - Popeye
+  - Pulsar
+  - Radar Scope
+  - Sky Skipper
+  - Space Demon
+  - Space Encounters
