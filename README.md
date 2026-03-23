@@ -1,5 +1,13 @@
 # Useful Arcade Stuff
 
+## Forums
+- [Arcade Otaku](https://forum.arcadeotaku.com/index.php) - Focused Primarily on Japanese Arcade Games
+- [Killer List of Videogames (KLOV)](https://forums.arcade-museum.com/) - All Arcade Games Welcome
+- [Arcade Projects](https://www.arcade-projects.com/) - User Custom Cabinets and Games
+- [Arcade Controls](https://forum.arcadecontrols.com/) - Build Your Own Arcade Controls
+- [Aussia Arcade](https://www.aussiearcade.com/) - Australian Arcade Forums
+- [UKVAC](https://www.ukvac.com/forum/) - United Kingdom Arcade Forums
+
 ## Vendors
 ### Parts
 - [Arcade Parts and Repair](https://www.arcadepartsandrepair.com/) - Your source for everything arcade, particularly flybacks/hard to find parts.
