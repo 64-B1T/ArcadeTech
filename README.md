@@ -14,10 +14,12 @@
 - [ARCade ARChive (ArcArc)](https://arcarc.xmission.com/) PDFs for just about everything
 - [SARK - Search Tool for ArcArc](https://sark.atomized.org/)
 - [Tubular - CRT Tube Information](https://tubular.atomized.org/)
+- [Arcade Repair DB] (https://www.arcaderepairdb.com/) Memory Maps, Pinouts, Rom Information etc. 
 
 ## Tools
 - [Romident Coinop Florida](https://romident.coinopflorida.com/)
-- [Romident Arcade Repair DB](https://www.arcaderepairdb.com/) 
+- [Romident Arcade Repair DB](https://www.arcaderepairdb.com/)
+- [Rom Utilities](http://www.arcade-cabinets.com/resources.shtml) Rom Image Doublers
 
 ## Repair Logs
 - [JammaCade Repair Logs](https://jammarcade.net/pcb-repair-logs/) 
