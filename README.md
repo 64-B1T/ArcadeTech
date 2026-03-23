@@ -11,25 +11,28 @@
 
 ## Vendors
 ### Parts
-- [Arcade Parts and Repair](https://www.arcadepartsandrepair.com/) - Your source for everything arcade, particularly flybacks/hard to find parts.
-- [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
-- [Arcade Shop](https://www.arcadeshop.com/) - NEW Arcade Parts. Plenty of excellent reproductions. 
-- [QuarterArcade](https://quarterarcade.com/)- Used Arcade Parts
-- [Arcade Boneyard](https://thearcadeboneyard.com/)- Parts from Scrapped Arcade Games
-- [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
-- [Coinop Parts Etc](https://coinoppartsetc.com/shop/all) - Used Arcade Parts
-- [Mikes Arcade](https://www.mikesarcade.com/cgi-bin/store.pl) - Arcade Parts Specializing in Nintendo
-- [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
-- [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Wiring Harnesses
-- [Paradise Arcade Shop](https://paradisearcadeshop.com/) - Reproductions and Other
-- [The Real Bob Roberts](http://www.therealbobroberts.net/) - Arcade Parts NOS and good Jamma Harnesses
-- [Arcade Chips](https://arcadechips.com/) - Arcade Chips
-- [ArcadeFixit](https://arcadefixit.com/) - NOS Arcade Parts
-- [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
-- [Groovy Game Gear](https://groovygamegear.com/webstore/) - Arcade Parts and Mame Parts
+#### New Parts
 - [Arcade Adventures](https://www.arcadeadventures.com/) - Arcade Games and Parts
-- [Marco Specialties](https://www.marcospecialties.com/control/main) - Primarily Pinball Parts
+- [Arcade Chips](https://arcadechips.com/) - Arcade Chips
 - [Arcade Components](https://www.arcadecomponents.com/index.html) - Mostly Old Chips
+- [ArcadeFixit](https://arcadefixit.com/) - NOS Arcade Parts
+- [Arcade Parts and Repair](https://www.arcadepartsandrepair.com/) - Your source for everything arcade, particularly flybacks/hard to find parts.
+- [Arcade Shop](https://www.arcadeshop.com/) - NEW Arcade Parts. Plenty of excellent reproductions.
+- [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Wiring Harnesses
+- [Groovy Game Gear](https://groovygamegear.com/webstore/) - Arcade Parts and Mame Parts
+- [Marco Specialties](https://www.marcospecialties.com/control/main) - Primarily Pinball Parts
+- [Mikes Arcade](https://www.mikesarcade.com/cgi-bin/store.pl) - Arcade Parts Specializing in Nintendo
+- [Paradise Arcade Shop](https://paradisearcadeshop.com/) - Reproductions and Other
+- [Real Bob Roberts](http://www.therealbobroberts.net/) - Arcade Parts NOS and good Jamma Harnesses
+- [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
+- [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
+- [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
+- [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
+  
+### Used Parts
+- [Arcade Boneyard](https://thearcadeboneyard.com/)- Parts from Scrapped Arcade Games
+- [Coinop Parts Etc](https://coinoppartsetc.com/shop/all) - Used Arcade Parts
+- [QuarterArcade](https://quarterarcade.com/) - Used Arcade Parts
   
 ### Artwork
 - [Arcade Art Shop](https://www.arcadeartshop.com/)
