@@ -46,18 +46,31 @@
 - [SnesNesCube64 Repair Logs](https://www.videogamesage.com/blogs/blog/33-snesnescube64s-repair-logs/)
 
 ## Freeplay Hacks
-- [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-  - Arm Wrestling
-  - Donkey Kong
-  - Donkey Kong Jr
-  - Donkey Kong 3
-  - Head on N
-  - Head on 2
-  - Heli Fire
-  - Mario Bros
-  - Popeye
-  - Pulsar
-  - Radar Scope
-  - Sky Skipper
-  - Space Demon
-  - Space Encounters
+- Arm Wrestling
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Donkey Kong'
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Donkey Kong Jr.
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Donkey Kong 3
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Head on N
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Head on 2
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Heli Fire
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Mario Bros
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Popeye
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Pulsar
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Radar Scope
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Space Demon
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Space Duel
+  - [64B1T's Freeplay hack (Supports Cocktail)](https://github.com/64-B1T/arcade_freeplay_hacks)
+- Space Encounters
+  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
