@@ -134,6 +134,8 @@
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Radar Scope
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Solar Fox
+  - [Scucci's Solar Fox Hack](https://forums.arcade-museum.com/threads/rom-hacking-reading-inputs-coin-switches.486442/post-4301188) Disables Coin 1
 - Space Demon
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Space Duel
