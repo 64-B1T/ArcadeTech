@@ -83,12 +83,26 @@
 ## Freeplay Hacks
 - Arm Wrestling
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Donkey Kong'
+- Arkanoid
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Arkanoid Revenge of Doh
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Bank Panic
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Bomb Jack
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+ - Bubble Bobble Lost Cave
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Bubble Bobble Redux
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Donkey Kong
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Donkey Kong Jr.
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Donkey Kong 3
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Double Dragon
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
 - Head on N
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Head on 2
@@ -109,3 +123,5 @@
   - [64B1T's Freeplay hack (Supports Cocktail)](https://github.com/64-B1T/arcade_freeplay_hacks)
 - Space Encounters
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Starship 1
+  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
