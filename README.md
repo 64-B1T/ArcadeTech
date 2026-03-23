@@ -1,6 +1,7 @@
 # Useful Arcade Stuff
 
 ## Vendors
+### Parts
 - [Arcade Parts and Repair](https://www.arcadepartsandrepair.com/) - Your source for everything arcade, particularly flybacks/hard to find parts.
 - [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
 - [Arcade Shop](https://www.arcadeshop.com/) - NEW Arcade Parts. Plenty of excellent reproductions. 
@@ -9,17 +10,32 @@
 - [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
 - [Coinop Parts Etc](https://coinoppartsetc.com/shop/all) - Used Arcade Parts
 - [Mikes Arcade](https://www.mikesarcade.com/cgi-bin/store.pl) - Arcade Parts Specializing in Nintendo
-- [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond. 
+- [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
+- [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Wiring Harnesses
+  
+### Artwork
+- [Arcade Art Shop](https://www.arcadeartshop.com/)
+- [This Old Game](https://thisoldgame.com/)
+- [Phoenix Arcade](https://www.phoenixarcade.com/)
+- [Szabo's Arcades](https://www.szabosarcades.com/)
+- [Escape Pod](https://www.escapepodonline.com/)
+- [XL Arcade](https://xlarcade.com/)
 
 ## Documentation
 - [ARCade ARChive (ArcArc)](https://arcarc.xmission.com/) PDFs for just about everything
 - [SARK - Search Tool for ArcArc](https://sark.atomized.org/)
 - [Tubular - CRT Tube Information](https://tubular.atomized.org/)
-- [Arcade Repair DB](https://www.arcaderepairdb.com/) Memory Maps, Pinouts, Rom Information etc. 
+- [Arcade Repair DB](https://www.arcaderepairdb.com/) Memory Maps, Pinouts, Rom Information etc.
+- [Arcade Artwork](https://www.arcadeartwork.org/) References for Arcade Art Files
+- [Classic Arcade Cabinets](https://www.classicarcadecabinets.com/) CAD For Cutting Your own Cabinets
+- [Arcade Cabinet 3D Models](https://www.arcade-museum.com/tech-center/3DModels) Useful for Drafing Layouts
+- [IAML PCB Identifier](https://www.arcade-museum.com/tech-center/pcb-identifier)
+- [TTL Datasheets](https://www.arcade-museum.com/tech-center/ttl-and-cmos)
 
 ## Tools
 - [Romident Coinop Florida](https://romident.coinopflorida.com/)
 - [Romident Arcade Repair DB](https://www.arcaderepairdb.com/)
+- [Romident IMAL](https://www.arcade-museum.com/tech-center/rom-identifier)
 - [Rom Utilities](http://www.arcade-cabinets.com/resources.shtml) Rom Image Doublers
 
 ## Repair Logs
