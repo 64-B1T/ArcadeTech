@@ -95,6 +95,10 @@
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
 - Bubble Bobble Redux
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Crazy Climber
+  - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/crazy/cchack/)
+- Discs of TRON
+  - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/dotron/)
 - Donkey Kong
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Donkey Kong Jr.
@@ -125,3 +129,5 @@
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Starship 1
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- TRON
+  - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/tron/)
