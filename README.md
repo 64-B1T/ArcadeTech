@@ -91,7 +91,7 @@
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
 - Bomb Jack
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
- - Bubble Bobble Lost Cave
+- Bubble Bobble Lost Cave
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
 - Bubble Bobble Redux
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
