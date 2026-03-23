@@ -89,6 +89,8 @@
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
 - Bank Panic
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Blue Print
+  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)
 - Bomb Jack
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
 - Bubble Bobble Lost Cave
@@ -122,6 +124,8 @@
   - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/kangaroo.htm) $45 Purchase Required
 - Mario Bros
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
+- Naughty Boy
+  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)
 - Phoenix
   - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/phoenix.htm) $40 Purchase Required
 - Popeye
@@ -133,10 +137,13 @@
 - Space Demon
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Space Duel
-  - [64B1T's Freeplay hack (Supports Cocktail)](https://github.com/64-B1T/arcade_freeplay_hacks)
+  - [64B1T's Freeplay hack (Supports Cocktail)](https://github.com/64-B1T/arcade_freeplay_hacks) Works in Upright and cocktail but English Only
+  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks) Disables Screen Flip in Cocktail for Vector Labs Multigame
 - Space Encounters
   - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
 - Starship 1
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
+- Tac/Scan
+  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)
 - TRON
   - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/tron/)
