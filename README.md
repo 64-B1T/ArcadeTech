@@ -97,6 +97,9 @@
   - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
 - Crazy Climber
   - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/crazy/cchack/)
+- Dig Dug
+  - [JROK](https://www.jrok.com/files/dd_freeplay.html) Start Button Lights InOp
+  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/digdug.htm) PAID
 - Discs of TRON
   - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/dotron/)
 - Donkey Kong
