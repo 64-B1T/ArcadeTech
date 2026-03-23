@@ -9,6 +9,7 @@
 - [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
 - [Coinop Parts Etc](https://coinoppartsetc.com/shop/all) - Used Arcade Parts
 - [Mikes Arcade](https://www.mikesarcade.com/cgi-bin/store.pl) - Arcade Parts Specializing in Nintendo
+- [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond. 
 
 ## Documentation
 - [ARCade ARChive (ArcArc)](https://arcarc.xmission.com/) PDFs for just about everything
