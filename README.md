@@ -7,6 +7,7 @@
 - [Arcade Controls](https://forum.arcadecontrols.com/) - Build Your Own Arcade Controls
 - [Aussia Arcade](https://www.aussiearcade.com/) - Australian Arcade Forums
 - [UKVAC](https://www.ukvac.com/forum/) - United Kingdom Arcade Forums
+- [Pinside](https://pinside.com/) - Pinball Forums
 
 ## Vendors
 ### Parts
