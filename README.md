@@ -13,6 +13,13 @@
 - [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
 - [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Wiring Harnesses
 - [Paradise Arcade Shop](https://paradisearcadeshop.com/) - Reproductions and Other
+- [The Real Bob Roberts](http://www.therealbobroberts.net/) - Arcade Parts NOS and good Jamma Harnesses
+- [Arcade Chips](https://arcadechips.com/) - Arcade Chips
+- [ArcadeFixit](https://arcadefixit.com/) - NOS Arcade Parts
+- [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
+- [Groovy Game Gear](https://groovygamegear.com/webstore/) - Arcade Parts and Mame Parts
+- [Arcade Adventures](https://www.arcadeadventures.com/) - Arcade Games and Parts
+- [Marco Specialties](https://www.marcospecialties.com/control/main) - Primarily Pinball Parts
   
 ### Artwork
 - [Arcade Art Shop](https://www.arcadeartshop.com/)
