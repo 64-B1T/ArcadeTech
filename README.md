@@ -19,6 +19,7 @@
 - [ArcadeFixit](https://arcadefixit.com/) - NOS Arcade Parts
 - [Arcade Parts and Repair](https://www.arcadepartsandrepair.com/) - Your source for everything arcade, particularly flybacks/hard to find parts.
 - [Arcade Shop](https://www.arcadeshop.com/) - NEW Arcade Parts. Plenty of excellent reproductions.
+- [Flippers](https://flippers.com/catalog_oc/arcade-game-parts) NOS arcade ans pinball parts
 - [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Wiring Harnesses
 - [Groovy Game Gear](https://groovygamegear.com/webstore/) - Arcade Parts and Mame Parts
 - [Marco Specialties](https://www.marcospecialties.com/control/main) - Primarily Pinball Parts
@@ -30,6 +31,7 @@
 - [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
 - [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
 - [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
+- [Victory Glass](https://victoryglass.com/) - Primarlily Jukebox/EM but Arcade stuff too.
   
 ### Used Parts
 - [Arcade Boneyard](https://thearcadeboneyard.com/)- Parts from Scrapped Arcade Games
