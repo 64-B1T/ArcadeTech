@@ -31,6 +31,7 @@
 - [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
 - [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
 - [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
+- [Vector Vault Repair](https://www.vectorvaultrepair.com/) - Sega G80 Vector Only
 - [Victory Glass](https://victoryglass.com/) - Primarlily Jukebox/EM but Arcade stuff too.
   
 ### Used Parts
@@ -45,6 +46,10 @@
 - [Szabo's Arcades](https://www.szabosarcades.com/)
 - [Escape Pod](https://www.escapepodonline.com/)
 - [XL Arcade](https://xlarcade.com/)
+
+## Repair Services
+- [I Repair Sega](https://www.irepairsega.com/) SEGA, Konami, and Midway Jamma era repair
+- [Vector Vault Repair](https://www.vectorvaultrepair.com/) Sega G80 Vector Repair Services
 
 ## Documentation
 ### Manuals and More
