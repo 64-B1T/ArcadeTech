@@ -28,6 +28,7 @@
 - [Real Bob Roberts](http://www.therealbobroberts.net/) - Arcade Parts NOS and good Jamma Harnesses
 - [Rose's Arcade](https://rosesarcade.com/) - MCR and Atari System parts and more.
 - [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
+- [Syracuse Semiconductors](https://syracusesemiconductors.com/) - Monitor Cap kits and Flybacks
 - [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
 - [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
 - [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
