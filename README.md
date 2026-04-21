@@ -79,7 +79,9 @@
 - [Monitor Chassis Pictures](https://www.arcadepartsandrepair.com/tech-help/monitor-chassis-pictures/) Useful for Identifying Monitors.
 - [Multigame.Com](https://arcarc.xmission.com/Web%20Archives/www.Multigame.com%20(Dec-31-2020)/index.htm) Clay Cowgill's Site
 - [Jed Margolin's Personal Site](https://www.jmargolin.com/)
-- [Biltronix Capture](https://arcarc.xmission.com/Web%20Archives/biltronix.com/index.html) 
+- [Biltronix Capture](https://arcarc.xmission.com/Web%20Archives/biltronix.com/index.html)
+- [International Pinball Database (IPDB)](https://www.ipdb.org/search.pl)
+- [Mike's Arcade Component Cross Reference](https://www.mikesarcade.com/cgi-bin/spies.cgi?action=url&type=info&page=CROSSREF.txt)
 
 ## Tools
 - [Romident Coinop Florida](https://romident.coinopflorida.com/)
@@ -94,71 +96,42 @@
 - [SnesNesCube64 Repair Logs](https://www.videogamesage.com/blogs/blog/33-snesnescube64s-repair-logs/)
 
 ## Freeplay Hacks
-- Arm Wrestling
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Arkanoid
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Arkanoid Revenge of Doh
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Bank Panic
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Blue Print
-  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)
-- Bomb Jack
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Bubble Bobble Lost Cave
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Bubble Bobble Redux
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Crazy Climber
-  - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/crazy/cchack/)
-- Dig Dug
-  - [JROK](https://www.jrok.com/files/dd_freeplay.html) Start Button Lights InOp
-  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/digdug.htm) $50 Purchase Required
-- Discs of TRON
-  - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/dotron/)
-- Donkey Kong
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Donkey Kong Jr.
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Donkey Kong 3
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Double Dragon
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Frogger
-  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/frogger.htm) $40 Purchase Required
-- Head on N
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Head on 2
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Heli Fire
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Kangaroo
-  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/kangaroo.htm) $45 Purchase Required
-- Mario Bros
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Naughty Boy
-  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)
-- Phoenix
-  - [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/phoenix.htm) $40 Purchase Required
-- Popeye
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Pulsar
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Radar Scope
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Solar Fox
-  - [Scucci's Solar Fox Hack](https://forums.arcade-museum.com/threads/rom-hacking-reading-inputs-coin-switches.486442/post-4301188) Disables Coin 1
-- Space Demon
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Space Duel
-  - [64B1T's Freeplay hack (Supports Cocktail)](https://github.com/64-B1T/arcade_freeplay_hacks) Works in Upright and cocktail but English Only
-  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks) Disables Screen Flip in Cocktail for Vector Labs Multigame
-- Space Encounters
-  - [SnesNesCube64 Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)
-- Starship 1
-  - [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)
-- Tac/Scan
-  - [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)
-- TRON
-  - [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/tron/)
+| **Game**                    | **Link**                                                                                                                                                          | **Notes**                                   |
+|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| Arm Wrestling               | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Arkanoid                    | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Arkanoid Revenge of Doh     | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Bank Panic                  | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Blue Print                  | [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)                                                                                                       |                                             |
+| Bomb Jack                   | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Bubble Bobble Bootleg Redux | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Bubble Bobble Lost Cave     | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Crazy Climber               | [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/crazy/cchack/)                                                                                      |                                             |
+| Dig Dug                     | [JROK](https://www.jrok.com/files/dd_freeplay.html)                                                                                                               | Static Screen                               |
+| Dig Dug                     | [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/digdug.htm)                                                                                              | Requires Purchase                           |
+| Discs of Tron               | [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/dotron/)                                                                                      |                                             |
+| Donkey Kong                 | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Donkey Kong Jr.             | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Donkey Kong 3               | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Double Dragon               | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Frogger                     | [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/frogger.htm)                                                                                             | Purchase Required                           |
+| Head On N                   | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Head On 2 (Sega Slimline)   | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Heli Fire                   | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Kangaroo                    | [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/kangaroo.htm)                                                                                            | Purchase Required                           |
+| Mario Bros                  | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Naughty Boy                 | [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)                                                                                                       |                                             |
+| Pheonix                     | [Jeff's Rom Hacks](https://www.jeffsromhack.com/products/phoenix.htm)                                                                                             | Purchase Required                           |
+| Popeye                      | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Pulsar                      | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Radar Scope                 | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Solar Fox                   | [Scucci's Solar Fox Hack](https://forums.arcade-museum.com/threads/rom-hacking-reading-inputs-coin-switches.486442/post-4301188)                                  | Disables Coin 1                             |
+| Space Demon                 | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Space Duel                  | [64B1T's Freeplay hack (Supports Cocktail)](https://github.com/64-B1T/arcade_freeplay_hacks)                                                                      | English only, Supports cocktail and upright |
+| Space Duel                  | [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)                                                                                                       | Disables screen flip, only supports upright |
+| Space Invaders              | [Scucci's Space Invaders Hack](https://forums.arcade-museum.com/threads/space-invaders-freeplay-w-attract-mode-a-little-assembly-help-needed.230152/post-2053159) |                                             |
+| Space Encounters            | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
+| Starship 1                  | [Mdeslaur's Freeplay Hacks](https://github.com/mdeslaur/ArcadeFreePlay)                                                                                           |                                             |
+| Tac/Scan                    | [Ieure's Freeplay Hacks](https://github.com/ieure/romhacks)                                                                                                       |                                             |
+| TRON                        | [ArcadeCollecting.com Hacks](https://www.arcadecollecting.com/hacks/tron/)                                                                                        |                                             |
+| Zaxxon                      | [SNESNESCUBE64's Freeplay Hacks](https://github.com/SNESNESCUBE64/ArcadeFreeplayMods/)                                                                            |                                             |
