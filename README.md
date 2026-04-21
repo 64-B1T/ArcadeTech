@@ -79,7 +79,9 @@
 - [Monitor Chassis Pictures](https://www.arcadepartsandrepair.com/tech-help/monitor-chassis-pictures/) Useful for Identifying Monitors.
 - [Multigame.Com](https://arcarc.xmission.com/Web%20Archives/www.Multigame.com%20(Dec-31-2020)/index.htm) Clay Cowgill's Site
 - [Jed Margolin's Personal Site](https://www.jmargolin.com/)
-- [Biltronix Capture](https://arcarc.xmission.com/Web%20Archives/biltronix.com/index.html) 
+- [Biltronix Capture](https://arcarc.xmission.com/Web%20Archives/biltronix.com/index.html)
+- [International Pinball Database (IPDB)](https://www.ipdb.org/search.pl)
+- [Mike's Arcade Component Cross Reference](https://www.mikesarcade.com/cgi-bin/spies.cgi?action=url&type=info&page=CROSSREF.txt)
 
 ## Tools
 - [Romident Coinop Florida](https://romident.coinopflorida.com/)
