@@ -13,23 +13,25 @@
 [All Vendor Search Engine](https://cse.google.com/cse?cx=e48ac70a6ce9d4225)
 ### Parts
 #### New Parts
-- [Arcade Adventures](https://www.arcadeadventures.com/) - Arcade Games and Parts
-- [Arcade Chips](https://arcadechips.com/) - Arcade Chips
-- [Arcade Components](https://www.arcadecomponents.com/index.html) - Mostly Old Chips
+- [Arcade Adventures](https://www.arcadeadventures.com/) - Primarily New and Reproduction Arcade Parts
+- [Arcade Chips](https://arcadechips.com/) - Arcade Chips, What it says on the tin.
+- [ArcadeCup](https://arcadecup.com/) Monitor Components, such as flybacks, capacitors, and various other monitor related parts.
+- [Arcade Components](https://www.arcadecomponents.com/index.html) - ICs and other parts for Arcade Games and Retro Computing.
 - [ArcadeFixit](https://arcadefixit.com/) - NOS Arcade Parts
 - [Arcade Parts and Repair](https://www.arcadepartsandrepair.com/) - Your source for everything arcade, particularly flybacks/hard to find parts.
 - [Arcade Shop](https://www.arcadeshop.com/) - NEW Arcade Parts. Plenty of excellent reproductions.
-- [Flippers](https://flippers.com/catalog_oc/arcade-game-parts) NOS arcade ans pinball parts
-- [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Wiring Harnesses
+- [Flippers](https://flippers.com/catalog_oc/arcade-game-parts) Primarily NOS Arcade and Pinball Parts, with some Used Parts as well. 
+- [Golden Age Arcade Parts](https://www.goldenagearcadeparts.com/) - Reproduction Arcade Wiring Harnesses
 - [Groovy Game Gear](https://groovygamegear.com/webstore/) - Arcade Parts and Mame Parts
-- [Marco Specialties](https://www.marcospecialties.com/control/main) - Primarily Pinball Parts
-- [Mikes Arcade](https://www.mikesarcade.com/cgi-bin/store.pl) - Arcade Parts Specializing in Nintendo
-- [Paradise Arcade Shop](https://paradisearcadeshop.com/) - Reproductions and Other
+- [Marco Specialties](https://www.marcospecialties.com/control/main) - Primarily Pinball Parts, though some things will be compatible with Video Arcade Games depending on MFG.
+- [Mikes Arcade](https://www.mikesarcade.com/cgi-bin/store.pl) - Arcade Parts and repair Services Specializing in Nintendo
+- [Paradise Arcade Shop](https://paradisearcadeshop.com/) - Reproduction Arcade Parts and New Hardware for Fresh Builds
+- [Play Choice Customizations](https://www.pc-10.com/) - Nintendo Play Choice Games and Customizations.
 - [Real Bob Roberts](http://www.therealbobroberts.net/) - Arcade Parts NOS and good Jamma Harnesses
-- [Rose's Arcade](https://rosesarcade.com/) - MCR and Atari System parts and more.
+- [Rose's Arcade](https://rosesarcade.com/) - MCR and Atari System parts, pcbs, control panels, and more. 
 - [Suzo Happ](https://na.suzohapp.com/products/arcade_game_parts/) - Replacement parts for pretty much everything 90s and beyond.
-- [Syracuse Semiconductors](https://syracusesemiconductors.com/) - Monitor Cap kits and Flybacks
-- [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts
+- [Syracuse Semiconductors](https://syracusesemiconductors.com/) - Monitor Cap kits and Flybacks from the Source
+- [Twisted Quarter](https://twistedquarter.com/) - New Arcade Parts and Mod Kits
 - [Twisty Wrist Arcade](https://twistywristarcade.com/)- Parts Vendor mostly focused on chips
 - [Unicorn Electronics](https://unicornelectronics.com/) - Obselete Chips
 - [Vector Vault Repair](https://www.vectorvaultrepair.com/) - Sega G80 Vector Only
@@ -49,7 +51,10 @@
 - [XL Arcade](https://xlarcade.com/)
 
 ## Repair Services
+- [ArcadeCup](https://arcadecup.com/) Monitor Repair for a wide variety of models.
 - [I Repair Sega](https://www.irepairsega.com/) SEGA, Konami, and Midway Jamma era repair
+- [Mike's Arcade](https://www.mikesarcade.com/cgi-bin/store.pl?action=url&page=pcbrepair.html) Nintendo PCB Repair and Pac/Ms.Pac
+- [Paradise Arcade Shop](https://paradisearcadeshop.com/collections/repairs) Monitor Repair Services for G07, K4900, and Atari Amplifone
 - [Vector Vault Repair](https://www.vectorvaultrepair.com/) Sega G80 Vector Repair Services
 
 ## Documentation
